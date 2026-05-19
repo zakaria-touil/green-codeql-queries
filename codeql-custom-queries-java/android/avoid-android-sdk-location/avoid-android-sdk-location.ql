@@ -6,7 +6,7 @@
  * @precision high
  * @id java/android/avoid-android-sdk-location
  * @link https://green-code-initiative.org/rules#id:GCI517
- * @tags andoid
+ * @tags android
  * @tags java
  */
 
